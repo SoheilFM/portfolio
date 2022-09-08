@@ -5490,10 +5490,10 @@
     "lodash.memoize" "^4.1.2"
     "lodash.uniq" "^4.5.0"
 
-"caniuse-lite@^1.0.0", "caniuse-lite@^1.0.30000981", "caniuse-lite@^1.0.30001109", "caniuse-lite@^1.0.30001125", "caniuse-lite@^1.0.30001259":
-  "integrity" "sha512-vM8D9Uvp7bHIN0fZ2KQ4wnmYFpJo/Etb4Vwsuc+ka0tfGDHvOPrFm6S/7CCNLSOkAUjenT2HnUPESdOIL91FaA=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001261.tgz"
-  "version" "1.0.30001261"
+"caniuse-lite@^1.0.0", "caniuse-lite@^1.0.30000981", "caniuse-lite@^1.0.30001109", "caniuse-lite@^1.0.30001125", "caniuse-lite@^1.0.30001259", "caniuse-lite@^1.0.30001390":
+  "integrity" "sha512-sS4CaUM+/+vqQUlCvCJ2WtDlV81aWtHhqeEVkLokVJJa3ViN4zDxAGfq9R8i1m90uGHxo99cy10Od+lvn3hf0g=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001390.tgz"
+  "version" "1.0.30001390"
 
 "caniuse-lite@^1.0.30001286":
   "integrity" "sha512-Wd1OuggRzg1rbnM5hv1wXs2VkxJH/AA+LuudlIqvZiCvivF+wJJe2mgBZC8gPMgI7D76PP5CTx8Luvaqc1V6OQ=="

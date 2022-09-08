@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import { Button } from '@material-ui/core';
 import { NavHashLink as NavLink } from 'react-router-hash-link';
 import { makeStyles } from '@material-ui/core/styles';
-
 import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
@@ -186,10 +185,10 @@ function Landing() {
                                     Contact
                                 </Button>
                             </NavLink>
-                        </div>
-                    </div>
+                     </div> 
+                </div> 
                 </div>
-            </div>
+                       </div>
         </div>
     );
 }
