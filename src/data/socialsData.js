@@ -1,7 +1,7 @@
 export const socialsData = {
     github: 'https://github.com/SoheilFM',
     //facebook: 'https://www.facebook.com/',
-    linkedIn: 'https://www.linkedin.com/soheil-faridmohammadzadegan',
+    linkedIn: 'https://www.linkedin.com/in/soheil-faridmohammadzadegan-2a0b49234',
     //instagram: 'https://www.instagram.com/',
     codepen: 'https://codepen.io/soheilfm',
     //twitter: 'https://twitter.com/',
