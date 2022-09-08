@@ -214,7 +214,7 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade right>
+                        <Fade left>
                             <NavLink
                                 to='/#resume'
                                 smooth={true}
@@ -232,7 +232,7 @@ function Navbar() {
                             </NavLink>
                         </Fade>
 
-                        <Fade right>
+                        <Fade left>
                             <NavLink
                                 to='/#contacts'
                                 smooth={true}
